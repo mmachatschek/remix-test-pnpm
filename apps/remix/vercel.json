@@ -1,0 +1,6 @@
+{
+  "framework": "remix",
+  "regions": ["fra1"],
+  "buildCommand": "pnpm --filter=remix run build",
+  "installCommand": "NODE_ENV=development pnpm install --filter=remix..."
+}
